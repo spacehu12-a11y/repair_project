@@ -1,0 +1,9 @@
+{
+    "exact_match": true,
+    "correct": true,
+    "plausible": true,
+    "multi-hunk": false,
+    "source": "if(n>b){",
+    "patch": "if(n>=b){",
+    "target": "if(n>=b){"
+}

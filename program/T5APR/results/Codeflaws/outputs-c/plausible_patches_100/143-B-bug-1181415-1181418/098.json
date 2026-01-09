@@ -1,0 +1,9 @@
+{
+    "exact_match": true,
+    "correct": true,
+    "plausible": true,
+    "multi-hunk": false,
+    "source": "",
+    "patch": "if(s[0]=='-')",
+    "target": "if(s[0]=='-')"
+}

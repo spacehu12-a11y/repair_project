@@ -1,0 +1,9 @@
+{
+    "exact_match": true,
+    "correct": true,
+    "plausible": true,
+    "multi-hunk": false,
+    "source": "if total < 0:",
+    "patch": "if total < 0 or not coins:",
+    "target": "if total < 0 or not coins:"
+}

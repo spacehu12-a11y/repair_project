@@ -1,0 +1,9 @@
+{
+    "exact_match": false,
+    "correct": true,
+    "plausible": true,
+    "multi-hunk": false,
+    "source": "printf(\"dif=%d\\n\",dif);",
+    "patch": "fprintf(stdout, \"%d\\n\",dif);",
+    "target": "printf(\"%d\",dif);"
+}

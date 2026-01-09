@@ -1,0 +1,9 @@
+{
+    "exact_match": true,
+    "correct": true,
+    "plausible": true,
+    "multi-hunk": false,
+    "source": "n = (n ^ (n - 1));",
+    "patch": "n = n & (n - 1);",
+    "target": "n = (n & (n - 1));"
+}

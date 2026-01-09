@@ -1,0 +1,9 @@
+{
+    "exact_match": true,
+    "correct": true,
+    "plausible": null,
+    "multi-hunk": true,
+    "source": "char *p;",
+    "patch": "",
+    "target": ""
+}

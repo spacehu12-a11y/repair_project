@@ -1,0 +1,9 @@
+{
+    "exact_match": true,
+    "correct": true,
+    "plausible": true,
+    "multi-hunk": false,
+    "source": "else if(n%1000==114)",
+    "patch": "else if(n%1000==144)",
+    "target": "else if(n%1000==144)"
+}

@@ -1,0 +1,9 @@
+{
+    "exact_match": true,
+    "correct": true,
+    "plausible": null,
+    "multi-hunk": false,
+    "source": "zend_function* existing_fn;",
+    "patch": "zend_function* existing_fn = NULL;",
+    "target": "zend_function* existing_fn = NULL;"
+}

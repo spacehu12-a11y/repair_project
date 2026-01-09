@@ -1,0 +1,9 @@
+{
+    "exact_match": true,
+    "correct": true,
+    "plausible": true,
+    "multi-hunk": false,
+    "source": "if (max-min>=k)",
+    "patch": "if (max-min>k)",
+    "target": "if (max-min>k)"
+}

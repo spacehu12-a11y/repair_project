@@ -1,0 +1,9 @@
+{
+    "exact_match": true,
+    "correct": true,
+    "plausible": true,
+    "multi-hunk": true,
+    "source": "return (node instanceof Element) || (node instanceof Document);",
+    "patch": "return true;",
+    "target": "return true;"
+}

@@ -1,0 +1,9 @@
+{
+    "exact_match": true,
+    "correct": true,
+    "plausible": true,
+    "multi-hunk": false,
+    "source": "op(token, a, b)",
+    "patch": "op(token, b, a)",
+    "target": "op(token, b, a)"
+}

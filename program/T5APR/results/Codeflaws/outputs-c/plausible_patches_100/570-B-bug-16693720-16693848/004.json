@@ -1,0 +1,9 @@
+{
+    "exact_match": true,
+    "correct": true,
+    "plausible": true,
+    "multi-hunk": false,
+    "source": "float mid;",
+    "patch": "double mid;",
+    "target": "double mid;"
+}

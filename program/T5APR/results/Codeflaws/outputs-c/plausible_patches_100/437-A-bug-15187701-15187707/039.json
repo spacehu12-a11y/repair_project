@@ -1,0 +1,9 @@
+{
+    "exact_match": true,
+    "correct": true,
+    "plausible": true,
+    "multi-hunk": false,
+    "source": "length[i]=count;",
+    "patch": "length[i]=count-2;",
+    "target": "length[i]=count-2;"
+}

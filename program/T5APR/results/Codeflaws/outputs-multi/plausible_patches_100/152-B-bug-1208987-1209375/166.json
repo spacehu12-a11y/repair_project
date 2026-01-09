@@ -1,0 +1,9 @@
+{
+    "exact_match": true,
+    "correct": true,
+    "plausible": true,
+    "multi-hunk": false,
+    "source": "else ty = (n - y) / dy;",
+    "patch": "else ty = (m - y) / dy;",
+    "target": "else ty = (m - y) / dy;"
+}

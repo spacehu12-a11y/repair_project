@@ -1,0 +1,9 @@
+{
+    "exact_match": true,
+    "correct": true,
+    "plausible": true,
+    "multi-hunk": false,
+    "source": "",
+    "patch": "printf(\"%ld\\n\",count);",
+    "target": "printf(\"%ld\\n\",count);"
+}
